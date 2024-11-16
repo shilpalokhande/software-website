@@ -1,2 +1,2 @@
 # techravi
-sample Website
+Sample Website
