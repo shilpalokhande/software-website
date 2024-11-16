@@ -1,2 +1,2 @@
 # techravi
-Create Website
+sample Website
